@@ -1,2 +1,21 @@
-# Conversor-de-Moedas
-Conversor de moedas disponivel para compra e Venda no BNA 
+# moedas
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### tecnologias utilizadas 
+PrimeVue 
+Vue3 
+Axios 

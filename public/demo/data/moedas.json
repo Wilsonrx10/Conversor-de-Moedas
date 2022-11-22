@@ -1,0 +1,294 @@
+[
+    {
+      "name": "DINAR EMIRATES",
+      "codigoMoeda": "AED"
+    },
+    {
+      "name": "LEK ALBANÊS",
+      "codigoMoeda": "ALL"
+    },
+    {
+      "name": "KWANZA",
+      "codigoMoeda": "AOA"
+    },
+    {
+      "name": "PESO ARGENTINO",
+      "codigoMoeda": "ARS"
+    },
+    {
+      "name": "DÓLAR AUSTTRALIANO",
+      "codigoMoeda": "AUD"
+    },
+    {
+      "name": "LEV NOVO BÚLGARO",
+      "codigoMoeda": "BGN"
+    },
+    {
+      "name": "DÓLAR DAS BERMUDAS",
+      "codigoMoeda": "BMD"
+    },
+    {
+      "name": "BOLIVIANO",
+      "codigoMoeda": "BOB"
+    },
+    {
+      "name": "REAL BRASILEIRO",
+      "codigoMoeda": "BRL"
+    },
+    {
+      "name": "DÓLAR DAS BAHAMAS",
+      "codigoMoeda": "BSD"
+    },
+    {
+      "name": "PULA BOTSUANESA",
+      "codigoMoeda": "BWP"
+    },
+    {
+      "name": "DÓLAR CANADENSE",
+      "codigoMoeda": "CAD"
+    },
+    {
+      "name": "FRANCO CONGOLES",
+      "codigoMoeda": "CDF"
+    },
+    {
+      "name": "FRANCO SUIÇO",
+      "codigoMoeda": "CHF"
+    },
+    {
+      "name": "YUAN CHINES",
+      "codigoMoeda": "CNY"
+    },
+    {
+      "name": "COLON DA COSTA RICA",
+      "codigoMoeda": "CRC"
+    },
+    {
+      "name": "PESO CUBANO",
+      "codigoMoeda": "CUP"
+    },
+    {
+      "name": "ESCUDO DE CABO VERDE",
+      "codigoMoeda": "CVE"
+    },
+    {
+      "name": "COROA CHECA",
+      "codigoMoeda": "CZK"
+    },
+    {
+      "name": "COROA DINAMARQUESA",
+      "codigoMoeda": "DKK"
+    },
+    {
+      "name": "COROA ESTONIANA",
+      "codigoMoeda": "EEK"
+    },
+    {
+      "name": "LIBRA EGÍPCIA",
+      "codigoMoeda": "EGP"
+    },
+    {
+      "name": "BIRR ETÍOPE",
+      "codigoMoeda": "ETB"
+    },
+    {
+      "name": "MOEDA DA UNIÃO EUROPEIA",
+      "codigoMoeda": "EUR"
+    },
+    {
+      "name": "LIBRA ESTRELIM",
+      "codigoMoeda": "GBP"
+    },
+    {
+      "name": "DOLAR DE HONG KONG",
+      "codigoMoeda": "HKD"
+    },
+    {
+      "name": "KUNA CROATA",
+      "codigoMoeda": "HRK"
+    },
+    {
+      "name": "FORINTE HÚNGARO",
+      "codigoMoeda": "HUF"
+    },
+    {
+      "name": "RUPIA INDONÉSIA",
+      "codigoMoeda": "IDR"
+    },
+    {
+      "name": "SHEQEL NOVO ISRAELITA",
+      "codigoMoeda": "ILS"
+    },
+    {
+      "name": "RUPIA INDIANA",
+      "codigoMoeda": "INR"
+    },
+    {
+      "name": "DINAR IRAQUIANO",
+      "codigoMoeda": "IQD"
+    },
+    {
+      "name": "DÓLAR JAMAICANO",
+      "codigoMoeda": "JMD"
+    },
+    {
+      "name": "YEN JAPONES",
+      "codigoMoeda": "JPY"
+    },
+    {
+      "name": "XELIM QUENIANO",
+      "codigoMoeda": "KES"
+    },
+    {
+      "name": "WON SUL-COREANO",
+      "codigoMoeda": "KRW"
+    },
+    {
+      "name": "DINAR COVEITIANO",
+      "codigoMoeda": "KWD"
+    },
+    {
+      "name": "TENGE DO CAZAQUISTÃO",
+      "codigoMoeda": "KZT"
+    },
+    {
+      "name": "LIBRA LIBANESA",
+      "codigoMoeda": "LBP"
+    },
+    {
+      "name": "RUPIA DO SRI LANKA",
+      "codigoMoeda": "LKR"
+    },
+    {
+      "name": "LOTI DO LESOTO",
+      "codigoMoeda": "LSL"
+    },
+    {
+      "name": "DIRÉM MARROQUINO",
+      "codigoMoeda": "MAD"
+    },
+    {
+      "name": "PESO MEXICANO",
+      "codigoMoeda": "MXN"
+    },
+    {
+      "name": "RINGGIT MALAIO",
+      "codigoMoeda": "MYR"
+    },
+    {
+      "name": "METICAL DO MOÇAMBIQUE",
+      "codigoMoeda": "MZN"
+    },
+    {
+      "name": "DOLAR NAMIBIANO",
+      "codigoMoeda": "NAD"
+    },
+    {
+      "name": "NAIRA NIGERIANA",
+      "codigoMoeda": "NGN"
+    },
+    {
+      "name": "COROA NORUEGUESA",
+      "codigoMoeda": "NOK"
+    },
+    {
+      "name": "DÓLAR DA NOVA ZELÂNDIA",
+      "codigoMoeda": "NZD"
+    },
+    {
+      "name": "SOL NOVO PERUANO",
+      "codigoMoeda": "PEN"
+    },
+    {
+      "name": "RUPIA PAQUISTANESA",
+      "codigoMoeda": "PKR"
+    },
+    {
+      "name": "ZLOTI POLONÊS",
+      "codigoMoeda": "PLN"
+    },
+    {
+      "name": "RIAL CATARIANO",
+      "codigoMoeda": "QAR"
+    },
+    {
+      "name": "LEU ROMENO",
+      "codigoMoeda": "RON"
+    },
+    {
+      "name": "RUBLO RUSSO",
+      "codigoMoeda": "RUB"
+    },
+    {
+      "name": "RIAL SAUDITA",
+      "codigoMoeda": "SAR"
+    },
+    {
+      "name": "LIBRA SUDANESA",
+      "codigoMoeda": "SDG"
+    },
+    {
+      "name": "COROA SUECA",
+      "codigoMoeda": "SEK"
+    },
+    {
+      "name": "DÓLAR DE CINGAPURA",
+      "codigoMoeda": "SGD"
+    },
+    {
+      "name": "DOBRA DE SÃO TOMÉ E PRÍNCIPE",
+      "codigoMoeda": "STD"
+    },
+    {
+      "name": "BAHT TAILANDÊS",
+      "codigoMoeda": "THB"
+    },
+    {
+      "name": "DÓLAR DE TRINIDAD E TOBAGO",
+      "codigoMoeda": "TTD"
+    },
+    {
+      "name": "DÓLAR NOVO DE TAIWAN",
+      "codigoMoeda": "TWD"
+    },
+    {
+      "name": "XELIM DA TANZÂNIA",
+      "codigoMoeda": "TZS"
+    },
+    {
+      "name": "HRYVNIA UCRANIANO",
+      "codigoMoeda": "UAH"
+    },
+    {
+      "name": "DÓLAR AMERICANO",
+      "codigoMoeda": "USD"
+    },
+    {
+      "name": "BOLÍVAR V ENEZUELANO FORTE",
+      "codigoMoeda": "VEF"
+    },
+    {
+      "name": "DONG VIETNAMITA",
+      "codigoMoeda": "VND"
+    },
+    {
+      "name": "FRANCO CFA BEAC CENTRAL",
+      "codigoMoeda": "XAF"
+    },
+    {
+      "name": "OURO",
+      "codigoMoeda": "XAU"
+    },
+    {
+      "name": "SPECIAL DRAWING RIGHTS TO US DOLLAR",
+      "codigoMoeda": "XDRUSD"
+    },
+    {
+      "name": "RANDE - ÁFRICA DO SUL",
+      "codigoMoeda": "ZAR"
+    },
+    {
+      "name": "KWACHA ZAMBIANO",
+      "codigoMoeda": "ZMK"
+    }
+  ]
