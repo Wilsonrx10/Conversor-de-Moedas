@@ -14,8 +14,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### tecnologias utilizadas 
-PrimeVue 
-Vue3 
-Axios 
